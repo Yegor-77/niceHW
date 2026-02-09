@@ -1,0 +1,30 @@
+body {
+font-family: Arial, sans-serif;
+background: #f5f5f5;
+}
+.container {
+max-width: 600px;
+margin: 40px auto;
+background: #fff;
+padding: 20px;
+}
+form {
+display: flex;
+gap: 10px;
+margin-bottom: 20px;
+}
+input {
+flex: 1;
+padding: 6px;
+}
+button {
+padding: 6px 12px;
+}
+li {
+border-bottom: 1px solid #ddd;
+padding: 10px 0;
+}
+.remove {
+color: red;
+cursor: pointer;
+}
