@@ -1,83 +1,94 @@
 body {
-  font-family: "Segoe UI", sans-serif;
+  color: #333;
   background: #f4f7f6;
   padding: 40px;
-  color: #333;
+  font-family: Segoe UI, sans-serif;
 }
+
 .container {
+  background: #fff;
+  border-radius: 12px;
   max-width: 800px;
   margin: 0 auto;
-  background: white;
   padding: 30px;
-  border-radius: 12px;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 15px #0000001a;
 }
+
 h2 {
+  color: #2c3e50;
   border-bottom: 2px solid #007bff;
   padding-bottom: 10px;
-  color: #2c3e50;
 }
+
 .form-group {
+  gap: 10px;
   margin-bottom: 20px;
   display: flex;
-  gap: 10px;
 }
+
 input {
-  padding: 10px;
   border: 1px solid #ddd;
   border-radius: 6px;
   flex: 1;
+  padding: 10px;
 }
+
 button {
-  padding: 10px 20px;
+  cursor: pointer;
   border: none;
   border-radius: 6px;
-  cursor: pointer;
+  padding: 10px 20px;
   font-weight: bold;
-  transition: 0.2s;
+  transition: all .2s;
 }
+
 .btn-add {
+  color: #fff;
   background: #007bff;
-  color: white;
 }
+
 .btn-add:hover {
   background: #0056b3;
 }
 
 .btn-get {
+  color: #fff;
   background: #28a745;
-  color: white;
   width: 100%;
   margin-bottom: 20px;
 }
+
 .btn-get:hover {
   background: #218838;
 }
 
 table {
-  width: 100%;
   border-collapse: collapse;
+  width: 100%;
 }
-th,
-td {
-  padding: 12px;
-  border-bottom: 1px solid #eee;
+
+th, td {
   text-align: left;
+  border-bottom: 1px solid #eee;
+  padding: 12px;
 }
+
 th {
   background: #f8f9fa;
 }
 
 .btn-upd {
-  background: #ffc107;
   color: #212529;
+  background: #ffc107;
   margin-right: 5px;
 }
+
 .btn-del {
+  color: #fff;
   background: #dc3545;
-  color: white;
 }
 
 button:active {
-  transform: scale(0.95);
+  transform: scale(.95);
 }
+/*# sourceMappingURL=niceHW.2cdaf7bc.css.map */
