@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Управління студентами</title>
+    <style>
+      body {
+        font-family: "Segoe UI", sans-serif;
+        background: #f0f2f5;
+        padding: 40px;
+        color: #333;
+      }
+      .container {
+        max-width: 800px;
+        margin: 0 auto;
+        background: white;
+        padding: 30px;
+        border-radius: 12px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+      }
+      h2 {
+        border-bottom: 2px solid #007bff;
+        padding-bottom: 10px;
+      }
+      .form-group {
+        margin-bottom: 20px;
+        display: flex;
+        gap: 10px;
+      }
+      input {
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        flex: 1;
+      }
+      button {
+        padding: 10px 20px;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-weight: bold;
+        transition: 0.2s;
+      }
+      .btn-add {
+        background: #007bff;
+        color: white;
+      }
+      .btn-add:hover {
+        background: #0056b3;
+      }
+      .btn-get {
+        background: #28a745;
+        color: white;
+        width: 100%;
+        margin-bottom: 20px;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+      }
+      th,
+      td {
+        padding: 12px;
+        border-bottom: 1px solid #eee;
+        text-align: left;
+      }
+      th {
+        background: #f8f9fa;
+      }
+      .btn-upd {
+        background: #ffc107;
+        color: #212529;
+        margin-right: 5px;
+      }
+      .btn-del {
+        background: #dc3545;
+        color: white;
+      }
+      button:active {
+        transform: scale(0.95);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h2>Додати студента</h2>
+      <form id="student-form" class="form-group">
+        <input type="text" id="name" placeholder="Ім'я студента" required />
+        <input type="number" id="age" placeholder="Вік" required />
+        <button type="submit" class="btn-add">Додати (POST)</button>
+      </form>
+
+      <button id="load-btn" class="btn-get">
+        Отримати список студентів (GET)
+      </button>
+
+      <table>
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Ім'я</th>
+            <th>Вік</th>
+            <th>Дії</th>
+          </tr>
+        </thead>
+        <tbody id="list"></tbody>
+      </table>
+    </div>
+
+    <script src="./index.js" type="module"></script>
+  </body>
+</html>

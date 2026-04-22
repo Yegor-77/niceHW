@@ -1,0 +1,10 @@
+{
+  "students": [
+    {
+      "name": "якщо ви це зараз читаєте - то мене не має в живих,,, до побачення на наступному занняті",
+      "age": "0",
+      "id": "MjMvxR5HLNE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
