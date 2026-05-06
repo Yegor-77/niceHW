@@ -5,7 +5,7 @@
 113C:\Users\egorh\Documents\GitHub\niceHW\node_modules\rxjs\dist\types\internal\scheduled\scheduleAsyncIterable.d.ts134213567966067989 0
 97C:\Users\egorh\Documents\GitHub\niceHW\node_modules\rxjs\dist\cjs\internal\testing\TestMessage.js134213567960277619 0
 76C:\Users\egorh\Documents\GitHub\niceHW\node_modules\yargs\locales\uk_UA.json134213567976929624 0
-43C:\Users\egorh\Documents\GitHub\niceHW\dist134213567909889226 1
+43C:\Users\egorh\Documents\GitHub\niceHW\dist134225500141754338 1
 103C:\Users\egorh\Documents\GitHub\niceHW\node_modules\rxjs\dist\types\internal\operators\concatMapTo.d.ts134213567965318994 0
 100C:\Users\egorh\Documents\GitHub\niceHW\node_modules\concurrently\dist\src\flow-control\teardown.d.ts134213567934227566 0
 57C:\Users\egorh\Documents\GitHub\niceHW\node_modules\@lmdb134213567910447557 1
@@ -1609,7 +1609,7 @@
 105C:\Users\egorh\Documents\GitHub\niceHW\node_modules\rxjs\dist\cjs\internal\operators\combineLatest.js.map134213567959216213 0
 102C:\Users\egorh\Documents\GitHub\niceHW\node_modules\rxjs\dist\cjs\internal\observable\partition.js.map134213567959077469 0
 68C:\Users\egorh\Documents\GitHub\niceHW\node_modules\is-glob\index.js134213567951684529 0
-62C:\Users\egorh\Documents\GitHub\niceHW\dist\niceHW.31b563d9.js134213567909889226 0
+62C:\Users\egorh\Documents\GitHub\niceHW\dist\niceHW.31b563d9.js134225500141504357 0
 93C:\Users\egorh\Documents\GitHub\niceHW\node_modules\type-fest\source\require-exactly-one.d.ts134213567974450495 0
 92C:\Users\egorh\Documents\GitHub\niceHW\node_modules\rxjs\src\internal\operators\auditTime.ts134213567966912216 0
 89C:\Users\egorh\Documents\GitHub\niceHW\node_modules\@swc\helpers\esm\_write_only_error.js134213567922156654 0
@@ -3669,7 +3669,7 @@
 99C:\Users\egorh\Documents\GitHub\niceHW\node_modules\rxjs\dist\esm5\internal\operators\switchScan.js134213567963990308 0
 76C:\Users\egorh\Documents\GitHub\niceHW\node_modules\neo-async\selectLimit.js134213567957614996 0
 93C:\Users\egorh\Documents\GitHub\niceHW\node_modules\rxjs\dist\esm5\internal\operators\take.js134213567964000583 0
-54C:\Users\egorh\Documents\GitHub\niceHW\dist\index.html134213567909873670 0
+54C:\Users\egorh\Documents\GitHub\niceHW\dist\index.html134225500141394357 0
 97C:\Users\egorh\Documents\GitHub\niceHW\node_modules\rxjs\dist\esm5\internal\operators\take.js.map134213567964000583 0
 78C:\Users\egorh\Documents\GitHub\niceHW\node_modules\@tinyhttp\app\dist\view.js134213567924113479 0
 107C:\Users\egorh\Documents\GitHub\niceHW\node_modules\rxjs\dist\esm\internal\scheduled\schedulePromise.js.map134213567961912642 0
@@ -7417,7 +7417,7 @@
 104C:\Users\egorh\Documents\GitHub\niceHW\node_modules\@parcel\runtime-js\src\helpers\worker\wasm-loader.js134213567913266579 0
 101C:\Users\egorh\Documents\GitHub\niceHW\node_modules\@parcel\runtime-js\src\helpers\node\css-loader.js134213567913246379 0
 102C:\Users\egorh\Documents\GitHub\niceHW\node_modules\@parcel\runtime-js\src\helpers\node\node-loader.js134213567913256568 0
-63C:\Users\egorh\Documents\GitHub\niceHW\dist\niceHW.2cdaf7bc.css134213567909873670 0
+63C:\Users\egorh\Documents\GitHub\niceHW\dist\niceHW.2cdaf7bc.css134225500141734330 0
 102C:\Users\egorh\Documents\GitHub\niceHW\node_modules\@parcel\runtime-js\src\helpers\node\wasm-loader.js134213567913256568 0
 104C:\Users\egorh\Documents\GitHub\niceHW\node_modules\@parcel\runtime-js\src\helpers\browser\css-loader.js134213567913215760 0
 103C:\Users\egorh\Documents\GitHub\niceHW\node_modules\@parcel\runtime-js\src\helpers\browser\js-loader.js134213567913225758 0
@@ -7767,5 +7767,5 @@
 70C:\Users\egorh\Documents\GitHub\niceHW\node_modules\.bin\tree-kill.ps1134213567910288491 0
 79C:\Users\egorh\Documents\GitHub\niceHW\node_modules\.bin\update-browserslist-db134213567910298649 0
 83C:\Users\egorh\Documents\GitHub\niceHW\node_modules\.bin\update-browserslist-db.ps1134213567910298649 0
-67C:\Users\egorh\Documents\GitHub\niceHW\dist\niceHW.2cdaf7bc.css.map134213567909883956 0
-66C:\Users\egorh\Documents\GitHub\niceHW\dist\niceHW.31b563d9.js.map134213567909889226 0
+67C:\Users\egorh\Documents\GitHub\niceHW\dist\niceHW.2cdaf7bc.css.map134225500141754338 0
+66C:\Users\egorh\Documents\GitHub\niceHW\dist\niceHW.31b563d9.js.map134225500141534326 0

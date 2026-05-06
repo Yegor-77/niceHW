@@ -2,7 +2,7 @@
   "name": "project-blog",
   "version": "1.0.0",
   "scripts": {
-    "start": "parcel src/index.html --port 1256",
+    "start": "parcel index.html --port 1256",
     "server": "json-server --watch src/db.json --port 3000",
     "dev": "concurrently \"npm run start\" \"npm run server\""
   },

@@ -207,7 +207,7 @@
       });
     }
   }
-})({"ffyKJ":[function(require,module,exports,__globalThis) {
+})({"lZ7Hd":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -776,6 +776,6 @@ window.handleEdit = async (id)=>{
 loadBtn.onclick = getStudents;
 getStudents();
 
-},{}]},["ffyKJ","a0t4e"], "a0t4e", "parcelRequiredcf7", {})
+},{}]},["lZ7Hd","a0t4e"], "a0t4e", "parcelRequiredcf7", {})
 
 //# sourceMappingURL=niceHW.31b563d9.js.map
